@@ -6,7 +6,9 @@
 
 輸入值:
 101010
+
 執行結果:
+
 prediction:0,Actual State:1
 result1 : N
 
