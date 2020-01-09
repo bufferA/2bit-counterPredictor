@@ -10,22 +10,23 @@ initial prediction value is 0(Not taken)
 輸入值:  
 101010  
 
-執行結果:  
+執行結果:     
 
-prediction:0,Actual State:1  
-result1 : N  
-
-prediction:0,Actual State:0
-result2 : T
-
-prediction:0,Actual State:1
-result3 : N
-
-prediction:0,Actual State:0
-result4 : T
-
-prediction:0,Actual State:1
-result5 : N
-
-prediction:0,Actual State:0
-result6 : T
+prediction:0,Actual State:1      
+result1 : N      
+    
+prediction:0,Actual State:0    
+result2 : T    
+    
+prediction:0,Actual State:1    
+result3 : N    
+    
+prediction:0,Actual State:0    
+result4 : T    
+    
+prediction:0,Actual State:1    
+result5 : N    
+    
+prediction:0,Actual State:0    
+result6 : T    
+    
